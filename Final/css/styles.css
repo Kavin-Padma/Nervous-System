@@ -1,0 +1,271 @@
+/* Overall Conditions */
+body, html {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+h1 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 8rem;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 3.75rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-size: 2.75rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 2.25rem;
+  line-height: 1.5;
+}
+
+p {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 1.75rem;
+  line-height: 1;
+  color: #9D9D9D;
+  text-align: justify;
+}
+
+em {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.13rem;
+  color: #F1F6F8;
+}
+
+.white {
+  color: #F1F6F8;
+  font-size: 3.15rem;
+}
+
+.caption {
+  font-size: 1.25rem;
+  text-align: center;
+  padding-top: 3%;
+  color:#F1F6F8;
+}
+
+/* Title Section */
+#title {
+  padding: 5%;
+  /* background-color: #21273D; */
+  color: #F1F6F8;
+}
+
+.navbar-brand {
+  font-family: 'Lato', sans-serif;
+  font-size: 2.625rem;
+  font-weight: bold;
+  padding: 0;
+}
+
+.navbarCollapse {
+  margin: 0 2% 0 1.375%;
+}
+
+.simba-img {
+  margin: 10px 2px 10px;
+  padding: 0;
+}
+
+.container {
+  padding: 15% 25% 0 0;
+}
+
+/* About section */
+.filler {
+  background-color: #F1F6F8;
+}
+
+#about {
+  padding: 7% 15%;
+  background-color: #F1F6F8;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+/* Slideshow Section */
+.filler-2 {
+  background-color: #6A759B;
+}
+
+.cute-photos {
+  background-color: #6A759B;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.pad {
+  margin-bottom: 20px;
+}
+
+.cute-pic {
+  margin: 0 5% 0;
+  width: 850px;
+}
+
+.mis {
+  color: #000000;
+}
+
+.white-1 {
+  color: #F1F6F8;
+  font-size: 1.5rem;
+}
+
+/* Video section */
+#lab {
+  background-color: #21273D;
+  text-align: center;
+  padding: 1% 2% 1% 2%;
+}
+
+.big {
+  font-size: 3rem;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section {
+  margin-top: 3%;
+  width: 50%;
+  height: 100%;
+  margin-bottom: 3%;
+}
+
+.white-2 {
+  color: #F1F6F8;
+  font-size: 2.25rem;
+}
+
+.section-1 {
+  width: 50%;
+  height: 100%;
+}
+
+.section-2 {
+  width: 35%;
+  height: 100%;
+}
+
+.caption-1 {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 1.25rem;
+  text-align: justify;
+  padding-top: 3%;
+  color: #9D9D9D;
+  line-height: 1;
+}
+
+.video {
+  margin-top: 5%;
+  margin-bottom: 5%
+}
+
+.dissection_text {
+  vertical-align: text-top;
+  padding-left: 5%
+}
+
+/* Visuals section */
+#visuals {
+  padding: 100px;
+  text-align: center;
+  background-color: #B9D4F1;
+}
+
+.space {
+  padding: 0 0 10% 0;
+}
+
+.space-1 {
+  padding: 0 0 0 0;
+}
+
+.black {
+  color: black;
+}
+
+/* Pamphlet section */
+#pamphlet {
+  text-align: center;
+  background-color: #6A759B;
+  padding: 3.5% 5% 3.5% 0;
+}
+
+/* Creators section */
+#creators {
+  text-align: center;
+  padding: 3% 2% 2% 2%;
+  background-color: #21273D;
+  vertical-align: middle;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
+
+.cards {
+  height: 400px;
+  vertical-align: middle;
+  padding: 2% 0 2% 0;
+}
+
+.big-1 {
+  font-size: 3rem;
+  color: #F1F6F8;
+}
+
+.image {
+  width: 400px;
+  border-radius: 100%;
+}
+
+/* Sources section */
+#sources {
+  text-align: center;
+  background-color: #B9D4F1;
+  color: #21273D;
+  padding: 5% 2% 5% 2%
+}
+
+.smaller {
+  font-size: 1rem;
+  text-align: left;
+  color: #21273D;
+}
+
+.bigger {
+  font-size: 3.25rem;
+}
+
+/* Footer */
+#footer {
+  background-color: #21273D;
+  margin: 0;
+  padding: 2% 0 1%;
+  text-align: center;
+}
+
+.img-logos {
+  margin: 0 2% 1%;
+  color: #F1F6F8;
+}
+
+.small {
+  font-size: 1rem;
+  text-align: center;
+}
